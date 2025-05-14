@@ -1,0 +1,1 @@
+Bumped Minecraft version to 1.20 and supports 1.20.1
